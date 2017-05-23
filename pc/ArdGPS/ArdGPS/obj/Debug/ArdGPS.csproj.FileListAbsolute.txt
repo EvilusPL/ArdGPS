@@ -7,3 +7,12 @@ X:\Projekty\ArdGPS\ArdGPS\pc\ArdGPS\ArdGPS\obj\Debug\ArdGPS.csproj.GenerateResou
 X:\Projekty\ArdGPS\ArdGPS\pc\ArdGPS\ArdGPS\obj\Debug\ArdGPS.exe
 X:\Projekty\ArdGPS\ArdGPS\pc\ArdGPS\ArdGPS\obj\Debug\ArdGPS.pdb
 X:\Projekty\ArdGPS\ArdGPS\pc\ArdGPS\ArdGPS\obj\Debug\ArdGPS.csprojResolveAssemblyReference.cache
+C:\Users\Evilus\Documents\Projekty\ArdGPS\pc\ArdGPS\ArdGPS\bin\Debug\ArdGPS.exe
+C:\Users\Evilus\Documents\Projekty\ArdGPS\pc\ArdGPS\ArdGPS\bin\Debug\ArdGPS.pdb
+C:\Users\Evilus\Documents\Projekty\ArdGPS\pc\ArdGPS\ArdGPS\obj\Debug\ArdGPS.csprojResolveAssemblyReference.cache
+C:\Users\Evilus\Documents\Projekty\ArdGPS\pc\ArdGPS\ArdGPS\obj\Debug\ArdGPS.About.resources
+C:\Users\Evilus\Documents\Projekty\ArdGPS\pc\ArdGPS\ArdGPS\obj\Debug\ArdGPS.mainWindow.resources
+C:\Users\Evilus\Documents\Projekty\ArdGPS\pc\ArdGPS\ArdGPS\obj\Debug\ArdGPS.Properties.Resources.resources
+C:\Users\Evilus\Documents\Projekty\ArdGPS\pc\ArdGPS\ArdGPS\obj\Debug\ArdGPS.csproj.GenerateResource.Cache
+C:\Users\Evilus\Documents\Projekty\ArdGPS\pc\ArdGPS\ArdGPS\obj\Debug\ArdGPS.exe
+C:\Users\Evilus\Documents\Projekty\ArdGPS\pc\ArdGPS\ArdGPS\obj\Debug\ArdGPS.pdb

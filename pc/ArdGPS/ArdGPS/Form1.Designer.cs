@@ -94,7 +94,7 @@
             // aboutArdGPSToolStripMenuItem
             // 
             this.aboutArdGPSToolStripMenuItem.Name = "aboutArdGPSToolStripMenuItem";
-            this.aboutArdGPSToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.aboutArdGPSToolStripMenuItem.Size = new System.Drawing.Size(150, 22);
             this.aboutArdGPSToolStripMenuItem.Text = "About ArdGPS";
             this.aboutArdGPSToolStripMenuItem.Click += new System.EventHandler(this.aboutArdGPSToolStripMenuItem_Click);
             // 
@@ -159,7 +159,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MainMenuStrip = this.mnuMain;
             this.Name = "mainWindow";
-            this.Text = "ArdGPS v1.0";
+            this.Text = "ArdGPS";
             this.mnuMain.ResumeLayout(false);
             this.mnuMain.PerformLayout();
             this.ResumeLayout(false);

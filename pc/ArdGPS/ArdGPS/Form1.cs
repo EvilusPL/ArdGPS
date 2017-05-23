@@ -50,6 +50,7 @@ namespace ArdGPS
                             
                             if (!buffer.Contains("Latitude,Longitude,Altitude,Speed,Course,Date,Time,Satellites"))
                             {
+                                this.Text = "ArdGPS";
                                 MessageBox.Show("File " + csvFile + " is not created by ArdGPS device", "Error opening file", MessageBoxButtons.OK, MessageBoxIcon.Error);
                                 return;
                             }
@@ -74,10 +75,11 @@ namespace ArdGPS
                             Array.Clear(newItem, 0, 8);
                         }
                     }
-                    this.Text="ArdGPS v1.0 - " + csvFile;
+                    this.Text="ArdGPS - " + csvFile;
                 }
                 catch (Exception)
                 {
+                    this.Text = "ArdGPS";
                     MessageBox.Show("Access denied for file " + fileName, "Error opening file", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     return;
                 }
