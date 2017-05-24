@@ -13,7 +13,7 @@
 #define GPS_RX 3                                                      // GPS data receiving pin is 3, change if the jumper has changed 
 #define GPS_TX 2                                                      // GPS data sending pin is 2, change if the jumper has changed
 #define SD_PIN 8                                                      // SD card reader is connected to Arduino on pin 8
-#define LOG_FILENAME "ardgps_"                                        // Name of the log file
+#define LOG_FILENAME "ardgps"                                        // Name of the log file
 #define MAX_NUM_OF_FILES 100                                          // Maximum number of log files on SD card
 #define LOG_EXTENSION "csv"                                           // We will save them as csv files, able to open in LibreOffice Calc, or Microsoft Excel
 #define LOG_COLUMNS 8                                                 // Log columns
@@ -22,7 +22,7 @@
 // Defining the variables
 TinyGPSPlus gpsData;                                                  // Create a TinyGPS++ object, we will collect usable data from this
 SoftwareSerial gpsDevice(GPS_TX, GPS_RX);                             // Create a SoftwareSerial with GPS board (in my case, DuinoPeak GPS Shield)
-char logFilename[15];                                                 // File name string buffer
+char logFilename[16];                                                 // File name string buffer
 char* logColNames[LOG_COLUMNS] = {                                    // Log column names for CSV file
   "Latitude", "Longitude", "Altitude", "Speed", "Course", "Date",
   "Time", "Satellites"
